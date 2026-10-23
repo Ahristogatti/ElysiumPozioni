@@ -266,7 +266,7 @@ vengono spostati automaticamente al primo avvio.
 
 ### 🌐 Versione web — nessuna installazione
 
-**[Apri il calcolatore nel browser](https://ahristogatti.github.io/ElysiumPozioni/)**
+**[Apri il calcolatore nel browser](https://pozioni.dodo-bot.online/)**
 
 Funziona anche da telefono e ricorda i prezzi che inserisci. Copre **tutti gli
 undici calcolatori** dell'app desktop, inclusi Multi-Prodotto e Lista della spesa.

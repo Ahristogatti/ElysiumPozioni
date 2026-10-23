@@ -190,6 +190,11 @@ verrebbero tagliati.
 Pages dalla cartella `/docs`. Riusa la palette della GUI e legge le ricette da
 `docs/recipes.json`. Copre tutte le schede dell'app desktop.
 
+Indirizzo: <https://pozioni.dodo-bot.online> (dal 23/10/2026). Il dominio sta
+in `docs/CNAME` e nel DNS di Namecheap (CNAME `pozioni` →
+`ahristogatti.github.io`); il vecchio `ahristogatti.github.io/ElysiumPozioni`
+reindirizza li'. Non cancellare `docs/CNAME`: GitHub toglierebbe il dominio.
+
 Le schede sono descritte dalla tabella `TABS()` e calcolate da un motore
 generico, non da un blocco per prodotto: `singolo` (una fase), `batch` (resa
 diversa da 1, es. antidoto Ferro), `livelli` (il II consuma un'unita' del I),

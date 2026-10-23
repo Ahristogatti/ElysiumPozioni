@@ -5,6 +5,11 @@ Il formato segue le linee guida di [Keep a Changelog](https://keepachangelog.com
 
 ---
 
+## Non rilasciato
+### 🌐 Nuovo indirizzo web
+- La versione web ora si apre su **https://pozioni.dodo-bot.online**.
+  Il vecchio indirizzo GitHub continua a funzionare e porta li'.
+
 ## [v4.2] — 2026-07-29
 ### 💪 Pozioni di Forza
 - Nuova tab **Forza** con la **Forza II** (calderone in Ferro):
